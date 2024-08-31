@@ -10,6 +10,7 @@
 
 🎇 Por aqui você encontra alguns dos meus projetos envolvendo programação!
 -->
+---
 ## 📫 Contatos
 <div>
   <a href = "https://www.instagram.com/israel.sp3/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -17,9 +18,16 @@
   <a href = "https://www.linkedin.com/in/israel-silva-4373bb202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-##
+---
+## 🔥 Skills
 
-### 📈 Github stats:
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matlab,python)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sklearn,opencv,pytorch,tensorflow)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn)
+
+---
 <div>
   <a href = https://github.com/israelsilvap>
   <img height = 140px href="https://github.com/israelsilvap" src="https://github-readme-stats-sigma-five.vercel.app/api?username=israelsilvap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&hide=contribs,prs"/>
@@ -31,13 +39,8 @@
 <img href="https://github.com/israelsilvap/" height=220px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israelsilvap&theme=algolia" />
     
 
-
-
-## 🛠️ Tools & Frameworks
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matlab,python,numpy,sklearn,pandas,matplotlib,seaborn,opencv)
-
 ---
+Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos. Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo para colaborações!
 <!--
 <div style="display: inline_block"><br>
   <a href = "https://github.com/inaciolimaf/Microdados-Enem" >
