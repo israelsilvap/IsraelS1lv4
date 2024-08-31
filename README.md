@@ -2,7 +2,7 @@
 ## Olá <img src="https://raw.githubusercontent.com/israelsilvap/israelsilvap/main/hi.gif"  height="30px">, sou Israel Silva 🧑‍💻
 - 🎓 **Estudante de Engenharia da Computação** na Universidade Federal do Ceará (UFC)
 
-- 💡 Apaixonado por **inteligência artificial**, **machine learning** e **desenvolvimento de algoritmos**.
+- 💡 Entusiasta em **Inteligência Artificial**, **Machine Learning** e **Reconhecimento de Padrão**.
 <!--
 🔭 Meu foco principal é em React, Next e Node
 
@@ -19,7 +19,7 @@
 
 ##
 
-### 📈Github stats:
+### 📈 Github stats:
 <div>
   <a href = https://github.com/israelsilvap>
   <img height = 140px href="https://github.com/israelsilvap" src="https://github-readme-stats-sigma-five.vercel.app/api?username=israelsilvap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&hide=contribs,prs"/>
@@ -30,7 +30,14 @@
     
 <img href="https://github.com/israelsilvap/" height=220px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israelsilvap&theme=algolia" />
     
-  ##
+
+
+
+## 🛠️ Tools & Frameworks
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matlab,python,numpy,sklearn,pandas,matplotlib,seaborn,opencv)
+
+---
 <!--
 <div style="display: inline_block"><br>
   <a href = "https://github.com/inaciolimaf/Microdados-Enem" >
