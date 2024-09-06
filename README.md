@@ -18,9 +18,9 @@ Entusiasta em **Inteligência Artificial**, **Machine Learning** e **Reconhecime
 
 ---
 <div>
-  <a href = https://github.com/israelsilvap>
-  <img height = 140px href="https://github.com/israelsilvap" src="https://github-readme-stats-sigma-five.vercel.app/api?username=israelsilvap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&hide=contribs,prs"/>
-  <img height = 140px href="https://github.com/israelsilvap/" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=israelsilvap&langs_count=7&theme=algolia&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=israelsilvap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelsilvap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="165" alt="languages graph"  />
+  
 </div>
 
 ##
