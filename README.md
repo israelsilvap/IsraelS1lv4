@@ -17,16 +17,16 @@ Entusiasta em **Inteligência Artificial**, **Machine Learning** e **Reconhecime
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn)
 
 ---
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=israelsilvap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelsilvap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="165" alt="languages graph"  />
+<div align = 'center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=israelsilvap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" width="38%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelsilvap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" width="31%" alt="languages graph"  />
   
 </div>
 
 ##
-    
-<img href="https://github.com/israelsilvap/" height=220px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israelsilvap&theme=algolia" />
-    
+<div align = 'center'> 
+  <img href="https://github.com/israelsilvap/" height=210px width=700px src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=israelsilvap&theme=prussian" />
+</div>  
 
 ---
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos. Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo para colaborações!
