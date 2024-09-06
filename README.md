@@ -18,8 +18,8 @@ Entusiasta em **Inteligência Artificial**, **Machine Learning** e **Reconhecime
 
 ---
 <div align = 'center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=israelsilvap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" width="38%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelsilvap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" width="31%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=israelsilvap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1" height=160px alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelsilvap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=true&order=2" height=160px alt="languages graph"  />
   
 </div>
 
